@@ -29,7 +29,8 @@ Building an AI CRM Chatbot and exploring how intelligent systems can improve bus
 
 Most of my best work is currently private. Public projects will be added here soon.
 
-## GitHub Stats
+## Focus Areas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4h2&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4h2&layout=compact)
+![Software Architecture](https://img.shields.io/badge/Software%20Architecture-000)
+![AI Products](https://img.shields.io/badge/AI%20Products-000)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
