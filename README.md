@@ -1,36 +1,102 @@
-# Hi, I'm Arthur
+<div align="center">
 
-Software Architect focused on building scalable systems, clean architectures, and AI-powered products.
+<br>
 
-I mainly work with TypeScript and I'm currently expanding my knowledge in C++ and Artificial Intelligence.
+# Arthur
 
-## About
+### Software Architect.
 
-- Software Architect
-- TypeScript as my main stack
-- Currently learning C++ and AI
-- Building an AI CRM Chatbot
-- Interested in scalable systems, automation, AI products, and developer experience
+Scalable systems. Clean architecture. AI-powered products.
+
+<br>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## Think different. Build simple.
+
+I design and build software that scales without becoming complicated.<br>
+Mainly in **TypeScript**, currently going deeper into **C++** and **Artificial Intelligence**.
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## Now
+
+**Building an AI CRM Chatbot**<br>
+Exploring how intelligent systems can transform business workflows and customer experience.
+
+<br>
+
+**Learning**<br>
+C++ &nbsp;·&nbsp; Artificial Intelligence
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![C++](https://img.shields.io/badge/C++-000?logo=cplusplus)
-![Git](https://img.shields.io/badge/Git-000?logo=git)
-![AI](https://img.shields.io/badge/AI-000?logo=openai)
+<br>
 
-## Current Focus
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-Building an AI CRM Chatbot and exploring how intelligent systems can improve business workflows and customer experience.
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+## Focus
+
+<br>
+
+**Software Architecture** &nbsp;·&nbsp; **Automation** &nbsp;·&nbsp; **AI Products** &nbsp;·&nbsp; **Developer Experience**
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
 
 ## Projects
 
-Most of my best work is currently private. Public projects will be added here soon.
+Most of my best work is private for now.<br>
+Public projects are coming soon.
 
-## Focus Areas
+<br>
 
-![Software Architecture](https://img.shields.io/badge/Software%20Architecture-000)
-![AI Products](https://img.shields.io/badge/AI%20Products-000)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+<sub>Designed with simplicity in mind.</sub>
+
+</div>
