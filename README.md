@@ -8,8 +8,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=7c3aed&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1b4b)
+![Profile Views](https://komarev.com/ghpvc/?username=4h2&label=Profile%20views&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/4h2?style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1b4b)
 
 </div>
 
@@ -63,10 +63,10 @@ const arthur = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=4h2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4h2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4h2&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
@@ -96,12 +96,7 @@ const arthur = {
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
 
